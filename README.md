@@ -1,0 +1,2 @@
+# Laravel album de fotos com bootstrap e mysql
+ O Laravel fornece uma poderosa abstração de sistema de arquivos graças ao maravilhoso pacote PHP Flysystem de Frank de Jonge. A integração do Laravel Flysystem fornece drivers simples para trabalhar com sistemas de arquivos locais,SFTP e Amazon S3.  E neste pequeno projeto foi desenvolvido um album de fotografias para fazer upload e download de imagens
